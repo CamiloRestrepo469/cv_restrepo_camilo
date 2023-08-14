@@ -419,7 +419,7 @@ span:hover {
 
 /* esto es por mas hacerlo que se vea mas pequeno */
 
-.contact form .input-box input a {
+.contact form .input-box input{
     width: 100%;
     background: var(--bg-color);
 }
@@ -603,7 +603,7 @@ span:hover {
         height: auto; /* Permite que la altura de la imagen se ajuste proporcionalmente */
     }
 
-    .contact form .input-box input a {
+    .contact form .input-box input{
         width: 100%;
     }
 }
