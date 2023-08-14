@@ -57,6 +57,7 @@ section {
     display: flex;
     align-items: center;
 }
+/*solo el logo*/
 
 .logo-img {
     width: 40px; /* Ajusta el tamaño según tus necesidades */
